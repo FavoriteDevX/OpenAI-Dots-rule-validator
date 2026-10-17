@@ -1,5 +1,7 @@
 # OpenAI Dot Custom Rules Validator 🤖🛡️
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6bf63407-78d6-4588-b0ae-a3e84fa163c4" />
+
 An advanced static analysis linter engineered to prevent **logical contradictions**, **circular reference loops**, and **structural code/markdown failures** within custom behavioral rule files deployed to OpenAI's autonomous agents (Dots).
 
 As OpenAI Dots run 24/7 in cloud environments with persistent memory, corrupted rules or paradoxical commands can cause execution loops, data leaks, or complete agent freeze states. This toolkit ensures code stability before production deployment.
