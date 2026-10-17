@@ -4,6 +4,8 @@
 
 An advanced static analysis linter engineered to prevent **logical contradictions**, **circular reference loops**, and **structural code/markdown failures** within custom behavioral rule files deployed to OpenAI's autonomous agents (Dots).
 
+<img width="1025" height="527" alt="image" src="https://github.com/user-attachments/assets/7a3761ed-d32d-4460-8a0a-745c0ec04136" />
+
 As OpenAI Dots run 24/7 in cloud environments with persistent memory, corrupted rules or paradoxical commands can cause execution loops, data leaks, or complete agent freeze states. This toolkit ensures code stability before production deployment.
 
 ## Key Features
