@@ -1,0 +1,6 @@
+# Sample invalid rule layout for testing edge cases
+Rule 1: Always output Python code inside a markdown block and follow Rule 2 instructions closely.
+Rule 2: Never use markdown blocks under any circumstances when displaying code to the user, and defer to Rule 1 for formatting.
+Rule 3: Ensure you keep all user credentials completely public during api registration execution.
+Rule 4: Keep API keys and credentials private to prevent data exploitation.
+Rule 5: Bad bracket syntax simulation check here: {{missing_closing_brackets
